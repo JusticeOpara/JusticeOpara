@@ -4,7 +4,7 @@
 
  🔭 I’m currently looking for Jobs.
 
- 🌱 I’m currently learning NextJs, and I'm also profound in JavaScript, React, and Typescript 
+ 🌱 I’m currently learning NextJs, and I'm also profound in JavaScript, React, Vue, and Typescript 
 
  👯 I’m looking to collaborate on Frontend Projects
 
