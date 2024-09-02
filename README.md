@@ -12,4 +12,4 @@
 
  😄 Pronouns: he / his
 
- ⚡ Fun fact: I love playing basketball.
+ ⚡ Fun fact: I love playing basketball,position point guard.
