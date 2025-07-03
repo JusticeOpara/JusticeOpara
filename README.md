@@ -4,7 +4,7 @@
 
  🔭 I’m currently looking for Jobs.
 
- 🌱 I’m currently learning React-Native and .Net, and I'm also proficient in JavaScript, React, Vue, TypeScript and NextJs
+ 🌱 I’m currently learning React-Native and Java, and I'm also proficient in JavaScript, React, Vue, TypeScript and NextJs
 
  👯 I’m looking to collaborate on Frontend Projects
 
