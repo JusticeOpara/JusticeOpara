@@ -6,7 +6,7 @@
 
  🌱 I’m currently learning Python and Java, and I'm also proficient in JavaScript, React, Vue, TypeScript, NextJS and React-Native
 
- 👯 I’m looking to collaborate on Frontend Projects
+ 👯 I’m looking to collaborate on Full-stack Developer Projects
 
  📫 How to reach me: justiceopara33@gmail.com
 
